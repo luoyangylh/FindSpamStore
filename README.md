@@ -7,4 +7,4 @@ Thus, we want to use the review content and customers’ relationship between ea
 
 Last but not least, we want to change the review showing timeline. Now the Yelp system show the reviews according to their posting time. But the most helpful review may be buried by other latest reviews. We will combine the qualities of customers’ reviews and customers’ relationship to give them “review authority”, i.e. foodies’ reviews are more influential, and help the useful reviews rank up.
 
-Wiki link: https://github.com/luoyangylh/FindSpamStore.wiki.git
+Wiki link: https://github.com/luoyangylh/FindSpamStore/wiki/Find-Spam-Store
