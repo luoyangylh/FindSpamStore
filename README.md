@@ -1,3 +1,5 @@
+****Find Spam Store****
+
 **INTRODUCTION**
 
 Do you believe the official scores in Yelp’s system? Do you ever consider the situation that some stores may hire workers to increase their scores?
