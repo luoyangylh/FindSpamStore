@@ -1,4 +1,4 @@
-INTRODUCTION
+**INTRODUCTION**
 
 Do you believe the official scores in Yelp’s system? Do you ever consider the situation that some stores may hire workers to increase their scores?
 In this case, customers cannot get founded evaluations of each stores. We question the score system which only uses customers’ rating. Reviews’ text contains lots of useful info related to the features that determine whether the store is good or not.
